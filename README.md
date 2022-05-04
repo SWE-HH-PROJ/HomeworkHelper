@@ -32,6 +32,11 @@ Home page and quick links Tab
 
 <img src='http://g.recordit.co/wNKD6p3saB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/22XL9f4yIK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/bqipf9TrTz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 MyClasses Tab
 
 <img src='http://g.recordit.co/rUiddxTt8e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -39,6 +44,4 @@ MyClasses Tab
 MyAssignment Tab
 
 <img src='http://g.recordit.co/HvR55OCu59.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
 
