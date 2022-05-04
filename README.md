@@ -27,3 +27,18 @@ Sign Up
 Login In 
 
 <img src='http://g.recordit.co/OH16JLvpxK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Home page and quick links Tab
+
+<img src='http://g.recordit.co/EIP2EWAcFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+MyClasses Tab
+
+<img src='http://g.recordit.co/EIP2EWAcFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+My assignment Tab
+
+<img src='http://g.recordit.co/EIP2EWAcFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
