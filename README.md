@@ -8,19 +8,13 @@ Time spent: **3** month spent in total
 
 The following **feautures** and **functionalities** are implemented:
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] User can sign up to create an account.
+- [x] User can login. 
+- [x] If an incorrect username or password is entered, user is promted to try agin.
+- [x] User can access quick link that will direct them to school website, quicklaunch and blackboard.
+- [x] User can add classes by enetering information such as: Class name, Description, Days, Time and Location.
+- [x] User can copy and paste the activty stream under the assignmnet section and set reminders to be reminded.
+
 
 ## Video Walkthrough
 
