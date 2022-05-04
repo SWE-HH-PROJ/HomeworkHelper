@@ -34,7 +34,7 @@ Home page and quick links Tab
 
 MyClasses Tab
 
-<img src='http://g.recordit.co/EIP2EWAcFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/rUiddxTt8e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 My assignment Tab
 
