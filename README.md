@@ -30,8 +30,6 @@ Login In
 
 Home page and quick links Tab
 
-<img src='http://g.recordit.co/CQXcdsV236.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 MyClasses Tab
 
 <img src='http://g.recordit.co/rUiddxTt8e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
