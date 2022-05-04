@@ -6,7 +6,7 @@ Time spent: **3** month spent in total
 
 ## User Stories
 
-The following **feautures** and **functionalities* are implemented:
+The following **feautures** and **functionalities** are implemented:
 
 - [x] 
 - [x] 
