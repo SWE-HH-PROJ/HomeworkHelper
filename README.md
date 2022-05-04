@@ -21,3 +21,5 @@ The following **feautures** and **functionalities** are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/G8a4QVYmen.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/G8a4QVYmen.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
