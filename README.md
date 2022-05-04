@@ -30,7 +30,7 @@ Login In
 
 Home page and quick links Tab
 
-<img src="http://g.recordit.co/EIP2EWAcFl.gif" width=1000 length = 1000><br> 
+<img src='http://g.recordit.co/vFKforaYvJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 MyClasses Tab
 
