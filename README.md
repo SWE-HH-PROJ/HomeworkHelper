@@ -36,9 +36,9 @@ MyClasses Tab
 
 <img src='http://g.recordit.co/rUiddxTt8e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-My assignment Tab
+MyAssignment Tab
 
-<img src='http://g.recordit.co/EIP2EWAcFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/HvR55OCu59.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
